@@ -2,6 +2,8 @@
 
 This project is a Crypto Trading Full-Stack Application with a **backend** built using **Spring Boot** and a **frontend** developed in **ReactJS**. Follow the steps below to set up and run the application.
 
+[Watch the video on Google Drive](https://drive.google.com/file/d/19boJ3vLcjpijn_nGIr9wEflrWLsnqooz/view?usp=sharing)
+
 ## Prerequisites
 
 Ensure you have the following installed on your system:
